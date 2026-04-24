@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://connected-tablet-help.vercel.app/sitemap.xml
